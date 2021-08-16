@@ -1,0 +1,1 @@
+web: cd Main/src && node ./App.js
