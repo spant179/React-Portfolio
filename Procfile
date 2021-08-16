@@ -1,1 +1,0 @@
-web: sh -c 'cd ./Main/src && node ./App.js
